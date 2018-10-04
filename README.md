@@ -1,2 +1,2 @@
 # media_player
-javascript media player
+A project to create media player using javascript
